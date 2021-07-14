@@ -7,6 +7,7 @@ The results of the model were as follows :
 1) Accuracy (Training Data) : 
 2) Accuracy (Test Data) : 
 3) Validation Accuracy : 
+
 This project could be very useful as a communication tool to help travelers or people who are either settling into or visiting a new country.
 
 ![alt text](https://www.languagealliance.com/wp-content/uploads/2017/06/translation-tools-for-legal-translators.jpg)
